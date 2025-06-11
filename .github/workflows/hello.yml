@@ -2,7 +2,7 @@ name: hello
 
 # Evento
 on:
-  workflow_dispatch:
+  push:
   
 
 # Trabajos
