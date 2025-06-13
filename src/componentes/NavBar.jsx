@@ -1,5 +1,6 @@
 import React from "react";
 
+feature-alex
 function NavBar(){
     return(//Esto es una prueba
         <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
@@ -26,19 +27,21 @@ function NavBar(){
             <li><hr className="dropdown-divider" /></li>
             <li><a className="dropdown-item" href="#">Todo</a></li>
           </ul>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link disabled" aria-disabled="true">Oculto</a>
-        </li>
-      </ul>
-      <form className="d-flex" role="search">
-        <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-        <button className="btn btn-outline-success" type="submit">Search</button>
-      </form>
-    </div>
-  </div>
-</nav>
-    )
+          <form className="d-flex" role="search">
+            <input
+              className="form-control me-2"
+              type="search"
+              placeholder="Search"
+              aria-label="Search"
+            />
+            <button className="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  );
 }
 
 export default NavBar;
