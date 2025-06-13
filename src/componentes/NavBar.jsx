@@ -1,7 +1,7 @@
 import React from "react";
 
 function NavBar(){
-    return(//Esto es una prueba
+    return(//Esto es una prueba para github workflows
         <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">ShopyFly</a>
