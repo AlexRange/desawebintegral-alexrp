@@ -4,7 +4,7 @@ function App() {
        <>
        <NavBar />
         <div>
-           <h1>Bienvenido a mi página Web Hola Mundo Desarrollo Web Integral V2</h1>
+           <h1>Bienvenido a mi página Web Hola Mundo Desarrollo Web Integral V3</h1>
            <hr />
        </div>
        <main className='container'>
