@@ -4,7 +4,7 @@ function App() {
        <>
        <NavBar />
         <div>
-           <h1>Bienvenido a mi página Web, Esta es una prueba para github Workflow y Ya</h1>
+           <h1>Bienvenido a mi página Web Hola</h1>
            <hr />
        </div>
        <main className='container'>
