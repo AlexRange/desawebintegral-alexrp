@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/desawebintegral-alexrp/static/js/main.c6eaa810.js",
+    "main.js": "/desawebintegral-alexrp/static/js/main.17cfa873.js",
     "index.html": "/desawebintegral-alexrp/index.html",
-    "main.c6eaa810.js.map": "/desawebintegral-alexrp/static/js/main.c6eaa810.js.map"
+    "main.17cfa873.js.map": "/desawebintegral-alexrp/static/js/main.17cfa873.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6eaa810.js"
+    "static/js/main.17cfa873.js"
   ]
 }
